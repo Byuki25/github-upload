@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "name": "react-rmdb",
+      "path": "."
+    },
+    {
+      "path": "../react-rmdb-car"
+    }
+  ]
+}
